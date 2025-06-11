@@ -1,0 +1,11 @@
+export const appColor = {
+  primary: "#5669FF",
+  white: "#fff",
+  text: "#120D26",
+  gray: "#807A7A",
+  gray2: "#979797",
+  gray3: "#E4DFDF",
+  gray4: "#9d9898",
+  link: "#5669FF",
+  danger: "#e74c3c",
+};
